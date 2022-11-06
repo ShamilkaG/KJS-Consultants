@@ -1,0 +1,15 @@
+npm install bootstrap
+src/App.js
+import "bootstrap/dist/css/bootstrap.min.css";
+
+
+npm install @fortawesome/fontawesome-free
+npm install react-table
+npm install @mui/material @emotion/react @emotion/styled
+npm install formik yup
+npm install --save react-form-input-validation
+npm install react-validation
+npm install validator
+
+npx react-codemod rename-unsafe-lifecycles
+npm install autoprefixer@10.4.5 --save-exact
